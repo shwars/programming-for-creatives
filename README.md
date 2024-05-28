@@ -10,3 +10,5 @@
 
 4. [Хранение, обработка и визуализация данных](https://youtu.be/OlvpjfWtQ20) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/shwars/programming-for-creatives/blob/main/4-ListsEtc/ListsEtc.ipynb)
 
+5. [Обработка данных и инфографика](https://youtu.be/qwTMKXV0EEM) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/shwars/programming-for-creatives/blob/main/5-DataProc/DataProc.ipynb)
+
