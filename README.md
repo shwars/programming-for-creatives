@@ -12,3 +12,4 @@
 
 5. [Обработка данных и инфографика](https://youtu.be/qwTMKXV0EEM) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/shwars/programming-for-creatives/blob/main/5-DataProc/DataProc.ipynb) [![Задание 2](https://img.shields.io/badge/задание-2-blue)](https://githubtocolab.com/shwars/programming-for-creatives/blob/main/5-DataProc/Task_DataAn.ipynb) [![Пример](https://img.shields.io/badge/пример-JobsVsGates-blue)](https://githubtocolab.com/shwars/programming-for-creatives/blob/main/5-DataProc/JobsVsGates.ipynb)
 
+6. [Генеративное искусство и Processing](https://youtu.be/vUKS4Ys46MY) [Примеры](6-Processing/README.md) [Processing.org](https://processing.org) [OpenProcessing](https://openprocessing.org)
